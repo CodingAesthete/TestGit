@@ -9,7 +9,7 @@ readCode();
 
 
 const obj= {
-  name: "Alex",
+  name: "Alexey",
   actions: ['eat', 'drink', 'code'],
   greet: function() {
     console.log(`Hi! I'm ${this.name}!`);
