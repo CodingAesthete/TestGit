@@ -1,7 +1,7 @@
 import {writeCode,readCode} from "./code.js";
 import code from "./code.js"
 
-const me=new code('Alexai', 'Alex1998@abv.bg');
+const me=new code('Sasho', 'Alex1998@abv.bg');
 console.log(me);
 
 writeCode();
